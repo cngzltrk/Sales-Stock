@@ -2,7 +2,7 @@
 
 Windows form application  
 ## Front END
-  - Java JFrame,JPanel,JMenuBar,JDialog 
+  - Java Swing
   - JAVA  Nimbus tema
  
   
