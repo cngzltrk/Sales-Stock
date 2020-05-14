@@ -15,4 +15,4 @@ Windows form application
 ### admin panel
 	
   
-  ![App.gif](https://github.com/cngzltrk/react-.netCoreWepApi/blob/master/gif/App.gif)
+  ![App.gif](https://github.com/cngzltrk/Sales-Stock/blob/master/Gif/satisStokProject.gif)
